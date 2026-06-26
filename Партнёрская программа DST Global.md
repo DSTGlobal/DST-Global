@@ -191,10 +191,9 @@ DST Global — аккредитованная в Минцифры России I
 
 ## Связанные документы
 
-| Документы | Описание |
-|-----------|----------| 
-
-| **Партнёрская программа DST Global** | [Партнёрская программа](https://github.com/DSTGlobal/DST-Global/edit/main/%D0%9F%D0%B0%D1%80%D1%82%D0%BD%D1%91%D1%80%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20DST%20Global.md) |
+| Документ | Описание |
+|----------|----------|
+| **Партнёрская программа DST Global** | [Партнёрская программа](https://crm.dstglobal.ru/offer/preview/1743/hYWkxIGdOB) |
 | **Юридические модели — Продажа ПО** | [Продажа ПО](https://crm.dstglobal.ru/offer/preview/1741/kRZeukzaud) |
 | **Юридические модели — Разработка ПО** | [Разработка ПО](https://crm.dstglobal.ru/offer/preview/1742/mvRfLyETND) |
 
