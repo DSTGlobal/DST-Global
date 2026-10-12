@@ -328,8 +328,8 @@ CMS — система управления содержимым сайта: и�
 
 ## Заказ демонстрации
 
-Познакомьтесь и протестируйте возможности системы. Специалисты DST Global ответят на вопросы и продемонстрируют работу платформы в действии.
+Познакомьтесь и протестируйте возможности системы. Специалисты DST Global ответят на вопросы и продемонстрируют работу платформы в действии.  
 
-Официальный сайт: [https://dstglobal.ru](https://dstglobal.ru)
-Центр поддержки: [dstglobal.ru/support](https://dstglobal.ru/support)
-Почта: info@dstglobal.ru
+Официальный сайт: [https://dstglobal.ru](https://dstglobal.ru)  
+Центр поддержки: [dstglobal.ru/support](https://dstglobal.ru/support)  
+Почта: info@dstglobal.ru  
